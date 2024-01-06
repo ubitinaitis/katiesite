@@ -14,7 +14,9 @@
     "react-dom": "18.2.0",
     "react-draggable": "^4.4.5",
     "react-medium-image-zoom": "^5.1.2",
-    "sass": "^1.54.1"
+    "react-router-dom": "^6.21.1",
+    "sass": "^1.69.7",
+    "sass-loader": "^13.3.3"
   },
   "devDependencies": {
     "eslint": "8.21.0",
